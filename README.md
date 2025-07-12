@@ -6,9 +6,9 @@ I believe in decentralization, privacy, and digital autonomy. Surveillance has n
 
 **🐾 Independence**: Cats are famously self-reliant. They operate on their own terms, making their own decisions, much like the ethos of decentralized systems.
 
-**🛡️ Privacy**: Cats are discreet and elusive, often hiding or moving silently—traits akin to a strong preference for privacy in digital systems.
+**🛡️ Privacy**: Cats are discreet and elusive, often hiding or moving silently, traits akin to a strong preference for privacy in digital systems.
 
-**🧷 Autonomy**: Cats aren’t easily trained or controlled, representing freedom from surveillance and centralized authority—values reflected in your work and beliefs.
+**🧷 Autonomy**: Cats aren’t easily trained or controlled, representing freedom from surveillance and centralized authority, values reflected in your work and beliefs.
 
 In essence, “felis” signals a digital identity aligned with sovereignty and resistance to control.
 

@@ -1,6 +1,6 @@
 Hi there, I'm **mjfelis**.
 
-I believe in decentralization, privacy, and digital autonomy. Surveillance has no place in a free internet. My work focuses on building technologies that return control to users, making the web more private, censorship-resistant, and trustless. Let’s rebuild the internet as it was meant to be: open, secure, and decentralized.
+I believe in decentralization, privacy, and digital autonomy. Surveillance has no place in a free internet. My work focuses on building technologies that return control to users, making the web more private, censorship-resistant, and verifiable. Let’s rebuild the internet as it was meant to be: open, secure, and decentralized.
 
 **mjfelis** comes from “*felis*”, the Latin word for cat: a symbol deeply associated with independence, privacy, and autonomy across cultures.
 

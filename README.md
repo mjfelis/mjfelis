@@ -12,8 +12,6 @@ I believe in decentralization, privacy, and digital autonomy. Surveillance has n
 
 In essence, “felis” signals a digital identity aligned with sovereignty and resistance to control.
 
-
 ![](https://github-readme-stats.vercel.app/api?username=mjfelis&count_private=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjfelis&layout=compact)
 
 *EOF*

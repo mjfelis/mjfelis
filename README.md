@@ -8,7 +8,7 @@ I believe in decentralization, privacy, and digital autonomy. Surveillance has n
 
 **🛡️ Privacy**: Cats are discreet and elusive, often hiding or moving silently, traits akin to a strong preference for privacy in digital systems.
 
-**🧷 Autonomy**: Cats aren’t easily trained or controlled, representing freedom from surveillance and centralized authority, values reflected in your work and beliefs.
+**🧷 Autonomy**: Cats aren’t easily trained or controlled, representing freedom from surveillance and centralized authority, values reflected in my work and beliefs.
 
 In essence, “felis” signals a digital identity aligned with sovereignty and resistance to control.
 
@@ -16,4 +16,4 @@ In essence, “felis” signals a digital identity aligned with sovereignty and 
 ![](https://github-readme-stats.vercel.app/api?username=mjfelis&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjfelis&layout=compact)
 
-EOF
+*EOF*
